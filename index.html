@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>My personal introduction</title>
+<style>
+body{background-color:#2d322a
+}
+
+H1{color:#e81717
+}
+
+p{color:#bdbdbd
+}
+</style>
+
+</head>
+<body>
+<H1>My name is Jairo</H1>
+<p>i enjoy playing and watching soccer.I am trying to learn about coding.I also enjoy to play video games.
+
+</p>
+
+</body>
+
+</html>
